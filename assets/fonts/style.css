@@ -1,0 +1,16 @@
+@font-face {
+   font-family: 'Bitter-Bold';
+   src: url('Bitter-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'Lato-LightItalic';
+   src: url('Lato-LightItalic/font.ttf');
+}
+@font-face {
+   font-family: 'Lato-Regular';
+   src: url('Lato-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'Lato-Bold';
+   src: url('Lato-Bold/font.ttf');
+}
